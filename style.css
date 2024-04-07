@@ -9,7 +9,7 @@
 }
 .list{
   display:inline;
-  top: -160px;
+  top: -165px;
   justify-content: space-between;
   align-items: center;
   position: relative;
@@ -26,7 +26,7 @@
   display: inline;
   position: relative;
   left: 580px;
-  top: -160px;
+  top: -165px;
   font-size: 25px;
   color: rgb(235, 68, 2);
 
@@ -35,7 +35,7 @@
   display: inline;
   position: relative;
   left: 690px;
-  top: -160px;
+  top: -165px;
   font-size: 20px;
   color: var(--clr);
 }
@@ -43,7 +43,7 @@
   display: inline;
   position: relative;
   left: 780px;
-  top:-160px;
+  top:-165px;
   font-size: 20px;
   color: var(--clr);
 }
